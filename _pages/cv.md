@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-
 {% include base_path %}
 
 Here is a PDF of my CV- if your browser is having trouble displaying

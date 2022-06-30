@@ -3,21 +3,11 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a PhD candidate at Duke University working with [Dr. Felipe De
-Brigard](https://www.imclab.org/){:target="_blank"} and [Dr. John
-Pearson](https://pearsonlab.github.io/){:target="_blank"}. I use a mix
-of methods from psychology, computational modeling, and cognitive
-neuroscience to understand the computations underlying human causal
-judgment, among other interests. I also jointly work with [Dr. Paul
-Bello](https://scholar.google.com/citations?user=72lZt54AAAAJ){:target="_blank"}
-and [Dr. Will Bridewell](https://paravidya.com/){:target="_blank"} to
-implement some of these ideas in their cognitive framework ARCADIA.
+I am a Psychology & Neuroscience Ph.D. student at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org/){:target="_blank"}. My main research interest is the relationship between forgiveness and memory. I am particularly interested in understanding the effect that forgiveness has on traumatic memories in the context of war. That is why an important part of my research is carried out in Colombia with victims of the internal armed conflict. I am also interested in the relationship between memory and imagination, particularly, the way in which future thinking affects how we remember negative memories.
 
-Previously, I worked with [Dr. Selmer
-Bringsjord](https://rair.cogsci.rpi.edu/){:target="_blank"} on using
-formal logic to enable flexible reasoning in AI.
+I earned my B.A. in Psychology with Honors from Universidad Javeriana and my M.A. from Universidad de los Andes (Bogota, Colombia). There, I studied forgiveness in children affected by forced displacement, and frustration in forensic anthropologists searching for victims of forced disappearance in Colombia.
