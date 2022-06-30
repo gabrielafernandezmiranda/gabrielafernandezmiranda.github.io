@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Blog"
+permalink: /blog/
+author_profile: true
+---
+
+{% include base_path %}
+
+Here is a collection of blog posts I wrote!
+
+<br>
+
+{% for post in site.blog %}
+  {% include archive-single.html %}
+{% endfor %}

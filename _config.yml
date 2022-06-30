@@ -175,16 +175,16 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  teaching:
+  blog:
     output: true
     permalink: /:collection/:path/
 
 # Defaults
 defaults:
-  # _posts
+  # _blog
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
@@ -199,15 +199,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
   # _research
   - scope:
       path: ""
