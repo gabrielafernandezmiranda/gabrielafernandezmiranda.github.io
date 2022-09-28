@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Here is a collection of blog posts I wrote!
+{% capture my_include %}{% include blog_intro.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 <br>
-
 {% for post in site.blog %}
   {% include archive-single.html %}
 {% endfor %}
