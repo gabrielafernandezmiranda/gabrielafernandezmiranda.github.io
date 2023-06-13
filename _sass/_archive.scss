@@ -75,7 +75,7 @@ summary {
     cursor: pointer;
         
     &:hover {
-	     color: $text-color;
+	     color: $info-color;
     }
     &::after {
 	content: ' ▶';

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "La gestión emocional de la frustración en antropólogos (as) forenses que trabajan en la búsqueda de víctimas de desaparición forzada en Colombia"
 collection: publications
 date: 2023-06-01
 journal: 'Antípoda. Revista de Antropología y Arqueología'
