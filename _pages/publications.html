@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  Here are some publications that I've worked on: you can find a complete list on <a href="{{author.googlescholar}}">Google Scholar</a>.
+{% endif %}
+
+
+<div class="container">  
+  {% for paper in site.publications %}
+    {% include publication.html %}
+  {% endfor %}
+</div>
+
+{% comment %}
+{% assign topics = "Causal Judgment, Category Learning & Memory, Mind Wandering, Miscellaneous" | split: ", " %}
+{% for topic in topics %}
+  <div class="container">
+  <h2> {{ topic }} </h2>
+
+  {% assign papers = site.publications | where: 'topic', topic | reverse %}
+  {% for paper in papers %}
+    {% include publication.html %}
+  {% endfor %}
+  </div>
+{% endfor %}
+{% endcomment %}

@@ -1,0 +1,10 @@
+---
+title: "Children’s Conceptualizations of Forgiveness, Reconciliation, and Peacebuilding in the Context of Armed Conflict"
+collection: publications
+date: 2019-10-20
+journal: 'Children and Peace'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-22176-8_13'
+citation: "López López, W., Correa-Chica, A., Carmenza Sierra-Puentes, M., Castañeda Polanco, J. G., Fernández Miranda, G., del Rosario Duran Jaramillo, M., & Castro-Abril, P. (2020). Children’s conceptualizations of forgiveness, reconciliation, and peacebuilding in the context of armed conflict. Children and Peace: From Research to Action, 203-215."
+abstract: "This chapter examines the effects that children face in situations of armed conflict and the central role that they play in building and consolidating peace. It analyzes how the processes of forgiveness and reconciliation contribute to peacebuilding and children’s visions of these constructs. Specifically, it presents the findings of an investigation that sought to understand the conceptualizations of forgiveness and reconciliation among Colombian children as well as their role in the construction of peace in this country. As such, 63 children between 10 and 13 years old participated. One group of participants (n = 29) was composed of children who were directly affected by conflict or in situations of economic and social vulnerability, residing in one of the areas with the most people displaced by armed conflict. The other group (n = 34) was composed of children living in optimal developmental conditions who had not directly experienced any victimizing event in relation to the Colombian armed conflict. The results showed convergences and divergences regarding the conceptualizations of the two groups. Some of the main differences were in relation to their views of the negotiated exit to the Colombian armed conflict and their conceptualizations of peace. The results show that socioeconomic contexts and previous experiences in relation to armed conflict permeate the country’s vision of the future."
+topic: 'Forgiveness'
+---

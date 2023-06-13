@@ -59,6 +59,40 @@
     }
 }
 
+
+.archive__item-title {
+    margin-top: 0.5em;
+    margin-left: 1em;
+    margin-bottom: 0.25em;
+    font-family: $sans-serif-narrow;
+
+    a + a {
+	opacity: 0.5;
+    }
+}
+
+summary {
+    cursor: pointer;
+        
+    &:hover {
+	     color: $text-color;
+    }
+    &::after {
+	content: ' ▶';
+    }
+}
+details[open] summary:after {
+    content: " ▼";
+}
+summary::-webkit-details-marker {
+    display: none
+}
+summary::marker {
+    content: none
+}
+
+
+
 /* remove border*/
 .page__content {
 
