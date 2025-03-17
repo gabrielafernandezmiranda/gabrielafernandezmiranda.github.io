@@ -1,7 +1,9 @@
 ---
-title: "Memory and forgiveness"
+title: "Forgiveness, memory, and emotions"
 collection: research
 permalink: /research/forgiveness
 ---
 
-Broadly, I am interested in understanding the relationship between memory and forgiveness. Some authors argue that forgiveness is related to forgetting the offense. However, we can find plenty of examples in which people remember wrongdoings committed against them and yet have released feelings of anger and resentment (among other negative feelings). This also happens in contexts of war where severe wrongdoings have been committed. For instance, despite the popular saying Forgive and Forget, in these contexts it is also common to hear people saying Forgive but never Forget. In research, my aim is to disentangle the relationship between memory and forgiveness and understand the cognitive mechanisms behind the release of negative emotions associated to memories of past wrongdoings that occurs when we forgive. 
+Broadly, I am interested in understanding the relationship between memory, emotion, and forgiveness. Some authors suggest that forgiveness is tied to forgetting the offense. However, numerous examples challenge this notion, showing that people can remember wrongdoings and still release feelings of anger and resentment. This is particularly evident in contexts of war, where severe wrongs have been committed. While the saying "Forgive and Forget" is common, it is also frequent to hear people say, "Forgive but never forget." A key part of my research takes place in Colombia with victims of the internal armed conflict.  
+
+My research employs a combination of in-depth interviews, physiological and behavioral assessments, and ethnographic methods.

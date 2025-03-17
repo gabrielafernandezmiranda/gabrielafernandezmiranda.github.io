@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Psychology & Neuroscience Ph.D. student at Duke University working with [Dr. Felipe De Brigard](https://www.imclab.org/){:target="_blank"}. My main research interest is the relationship between forgiveness and memory. I am particularly interested in understanding the effect that forgiveness has on traumatic memories in the context of war. That is why an important part of my research is carried out in Colombia with victims of the internal armed conflict. I am also interested in the relationship between memory and imagination, particularly, the way in which future thinking affects how we remember negative memories.
+I am a Ph.D. candidate in Cognitive Neuroscience at Duke University, working with [Dr. Felipe De Brigard](https://www.imclab.org/){:target="_blank"}. My main research interest is the relationship between forgiveness, memory, and emotion. Specifically, I focus on how forgiveness impacts the experience of remembering past wrongdoings. I aim to understand how reappraising these memories allows people to recall them without the pain they originally caused, and how this process is related to forgiveness. I am particularly interested in the effect of forgiveness on traumatic memories in the context of war, where forgiveness can lead to significant change. As part of this, a key area of my research is conducted in Colombia with victims of the internal armed conflict.
 
-I earned my B.A. in Psychology with Honors from Universidad Javeriana and my M.A. from Universidad de los Andes (Bogota, Colombia). There, I studied forgiveness in children affected by forced displacement, and frustration in forensic anthropologists searching for victims of forced disappearance in Colombia.
+
+I earned her B.A. in Psychology from Universidad Javeriana and my M.A. from Universidad de los Andes (Bogotá, Colombia). 
