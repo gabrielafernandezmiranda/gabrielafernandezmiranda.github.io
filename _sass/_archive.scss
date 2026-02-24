@@ -34,17 +34,16 @@
     border-radius: 10px;
 
     a {
-	text-decoration: none;
-	color: $background-color;
+				text-decoration: none;
+				color: $background-color;
 
-	&:hover {
-	    color: $text-color;
-	    text-decoration: underline;
-
-	    img {
-		box-shadow: 0 0 10px rgba(#000, 0.25);
-	    }
-	}
+				&:hover {
+						color: $info-color;
+						
+						img {
+								box-shadow: 0 0 10px rgba(#000, 0.25);
+						}
+				}
     }
 }
 
@@ -73,22 +72,20 @@
 
 summary {
     cursor: pointer;
-        
+    display: inline;
+		
     &:hover {
-	     color: $info-color;
+				color: $info-color;
     }
-    &::after {
-	content: ' ▶';
+		&:after {
+				content: ' \0025B6';
     }
 }
 details[open] summary:after {
-    content: " ▼";
+    content: " \0025BC";
 }
 summary::-webkit-details-marker {
     display: none
-}
-summary::marker {
-    content: none
 }
 
 
