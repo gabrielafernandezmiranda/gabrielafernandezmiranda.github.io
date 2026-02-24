@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriela Fernández Miranda"
+title                    : "Gabriela Fernández-Miranda"
 title_separator          : "-"
 name                     : &name "Gabriela Fernández-Miranda"
 description              : &description "Ph.D candidate at Duke University"
@@ -77,7 +77,7 @@ github: [metadata]
 
 # Site Author
 author:
-  name             : "Gabriela Fernández Miranda"
+  name             : "Gabriela Fernández-Miranda"
   avatar           : "profile.jpg"
   bio              : "Ph.D Candidate at Duke University working with Dr. Felipe De Brigard"
   location         :
