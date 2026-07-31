@@ -8,8 +8,8 @@ date: 2026-02-08
 location: "Durham, NC"
 ---
 
-I worked as a graduate teaching assistant for Decision Science, taught by Dr. Nitisha Desai. 
+I worked as a graduate teaching assistant for Decision Science, taught by [Dr. Nitisha Desai](https://scholars.duke.edu/person/nitisha.desai). 
 My responsibilities included grading assignments and exams, holding weekly office hours, 
-and providing logistical support for the course, including the use of Acadly. Serving as a teaching assistant 
-for this course provided an excellent opportunity to deepen my understanding of decision science 
-and its broad applications to everyday life.
+and providing logistical support for the course. Serving as a teaching assistant for this course 
+provided an excellent opportunity to deepen my understanding of decision science and its 
+broad applications to everyday life.

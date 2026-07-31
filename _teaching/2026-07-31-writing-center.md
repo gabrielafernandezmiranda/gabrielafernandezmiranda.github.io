@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant: Writing Center"
 collection: teaching
-type: "Undergraduate course"
+type: "University community"
 permalink: /teaching/2026-07-31-writing-center
 venue: "Universidad de los Andes"
 date: 2019-12-01

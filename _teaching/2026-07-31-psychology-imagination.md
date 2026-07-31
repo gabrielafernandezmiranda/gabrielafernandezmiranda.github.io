@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "Durham, NC"
 ---
 
-In the Fall of 2022, I worked as a graduate teaching assistant for [Dr. Tamar Kushnir's](http://ecclabduke.com)
+In the Fall of 2022, I worked as a graduate teaching assistant for [Dr. Tamar Kushnir's](http://ecclabduke.com/the-team)
 course, Psychology of Imagination. Throughout the semester, students developed a paper relating different 
 forms of imagination (e.g., remembering, planning, counterfactual thinking, and pretend play) 
 to a topic of their choice based on their own interests. My main role consisted of providing ongoing 
