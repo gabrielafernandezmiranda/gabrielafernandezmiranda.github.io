@@ -15,7 +15,7 @@ vivid memories of what was done to them. Forgiving is definitely not forgetting.
 My research adopts a cross-cultural approach, examining both a sample of victims of war 
 in Montes de María, Colombia who have experienced severe wrongdoings (e.g., murder, 
 kidnapping, torture, and massacres) and community samples in the United States. 
-It is also methodologically plurualistic: I use a combination of in-depth interviews, 
+It is also methodologically pluralistic: I use a combination of in-depth interviews, 
 physiological and behavioral assessments, and ethnographic methods to gather 
 convergent evidence on how the emotional responses associated with memories of 
 wrongdoing change over time.
